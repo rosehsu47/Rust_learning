@@ -1,0 +1,13 @@
+/Users/rosehsu/rust_learning/functionPrac/target/debug/deps/heck-a87fc35e0c0bef80.rmeta: /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/lib.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/camel.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/kebab.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/mixed.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/shouty_snake.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/snake.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/title.rs
+
+/Users/rosehsu/rust_learning/functionPrac/target/debug/deps/libheck-a87fc35e0c0bef80.rlib: /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/lib.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/camel.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/kebab.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/mixed.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/shouty_snake.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/snake.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/title.rs
+
+/Users/rosehsu/rust_learning/functionPrac/target/debug/deps/heck-a87fc35e0c0bef80.d: /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/lib.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/camel.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/kebab.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/mixed.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/shouty_snake.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/snake.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/title.rs
+
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/lib.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/camel.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/kebab.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/mixed.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/shouty_snake.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/snake.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/heck-0.3.1/src/title.rs:

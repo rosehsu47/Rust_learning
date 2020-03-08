@@ -1,0 +1,11 @@
+/Users/rosehsu/rust_learning/functionPrac/target/debug/deps/futures_core-1904efe13df06451.rmeta: /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/lib.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/future.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/stream.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/mod.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/poll.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/__internal/mod.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/__internal/atomic_waker.rs
+
+/Users/rosehsu/rust_learning/functionPrac/target/debug/deps/futures_core-1904efe13df06451.d: /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/lib.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/future.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/stream.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/mod.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/poll.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/__internal/mod.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/__internal/atomic_waker.rs
+
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/lib.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/future.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/stream.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/mod.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/poll.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/__internal/mod.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.4/src/task/__internal/atomic_waker.rs:

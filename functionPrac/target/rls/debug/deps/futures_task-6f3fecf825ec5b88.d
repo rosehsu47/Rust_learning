@@ -1,0 +1,11 @@
+/Users/rosehsu/rust_learning/functionPrac/target/rls/debug/deps/futures_task-6f3fecf825ec5b88.rmeta: /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/lib.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/spawn.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/future_obj.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/noop_waker.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/arc_wake.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/waker.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/waker_ref.rs
+
+/Users/rosehsu/rust_learning/functionPrac/target/rls/debug/deps/futures_task-6f3fecf825ec5b88.d: /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/lib.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/spawn.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/future_obj.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/noop_waker.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/arc_wake.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/waker.rs /Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/waker_ref.rs
+
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/lib.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/spawn.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/future_obj.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/noop_waker.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/arc_wake.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/waker.rs:
+/Users/rosehsu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.4/src/waker_ref.rs:
